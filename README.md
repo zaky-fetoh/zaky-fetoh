@@ -1,7 +1,9 @@
 ### Hi there 👋
-I'm mahmoud zaky a MSc Student doing research on deep learning.
+I'm a MSc Student doing research on deep learning.
+
 I love reading Deep learning research Paper and studing math.
-I can build complex RESTfull and GraphQL API Using NodeJS. I can build a complex aggregation pipeline for mongoDB Datbases. 
+
+I can build complex RESTfull and GraphQL API Using NodeJS. I can build a complex aggregation pipeline for mongoDB Databases. 
 
 
 <h7>Skills<h7> 
@@ -20,5 +22,6 @@ I can build complex RESTfull and GraphQL API Using NodeJS. I can build a complex
    <img src="./icons/LaTeX-Dark.svg" width="48">  
   <img src="./icons/ExpressJS-Dark.svg" width="48"> 
   <img src="./icons/GraphQL-Dark.svg" width="48"> 
+   <img src="./icons/Redis-Dark.svg" width="48"> 
 </p>
 
