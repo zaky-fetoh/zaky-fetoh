@@ -12,7 +12,7 @@ Contact: zaky.fetoh@gmail.com
 Or you can send anonymous message at [here](https://forms.gle/8dsNK1m6Hk8chgFi7)
 
 
-<h7>Skills<h7> 
+### Skills
 <p align="center">
 <img src="./icons/Python-Dark.svg" width="48"> 
 <img src="./icons/NodeJS-Dark.svg" width="48">    
