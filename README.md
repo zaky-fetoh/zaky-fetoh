@@ -9,8 +9,9 @@ I can build a complex aggregation pipeline for mongoDB Databases.
 
 Contact: zaky.fetoh@gmail.com
 
-Or you can send anonymous message at [here](https://forms.gle/8dsNK1m6Hk8chgFi7)
+Or you can send anonymous message [here](https://forms.gle/8dsNK1m6Hk8chgFi7).
 
+[Here](https://docs.google.com/document/d/1SGS_lUQXVAO4TiRgB-VeEstzlsBdQZYT/edit?usp=sharing&ouid=111759228175876662344&rtpof=true&sd=true) is my resume
 
 ### Skills
 <p align="center">
