@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm a MSc Student doing research on deep learning.
+I'm a MSc Student doing deep learning research.
 
-I love reading Deep learning research Paper and studing math.
+I love reading Deep learning research Paper and studying math.
 
 I can build complex RESTfull and GraphQL API Using NodeJS.
 
