@@ -1,9 +1,9 @@
 ### Hi there 👋
 I'm a MSc Student doing deep learning research.
 
-I love reading Deep learning research Paper and studying math.
+I love reading Deep learning research papers and studying mathematics.
 
-I can build complex RESTfull and GraphQL API Using NodeJS.
+I can build complex RESTfull, gRPC, and GraphQL APIs Using NodeJS.
 
 I can build a complex aggregation pipeline for mongoDB Databases. 
 
