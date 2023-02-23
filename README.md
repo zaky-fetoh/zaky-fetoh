@@ -1,4 +1,3 @@
-### Hi there 👋
 I'm a MSc Student doing deep learning research.
 
 I love reading Deep learning research papers and studying mathematics.
