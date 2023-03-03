@@ -15,7 +15,8 @@ Or you can send anonymous message [here](https://forms.gle/8dsNK1m6Hk8chgFi7).
 ### Skills
 <p align="center">
 <img src="./icons/Python-Dark.svg" width="48"> 
-<img src="./icons/NodeJS-Dark.svg" width="48">    
+<img src="./icons/NodeJS-Dark.svg" width="48"> 
+<img src="./icons/GO-Dark.svg" width="48" >
 </p>
 <p align="center">
 <img src="./icons/PyTorch-Dark.svg" width="48">  
