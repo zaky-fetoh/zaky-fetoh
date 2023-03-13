@@ -6,7 +6,7 @@ I can build complex RESTfull, gRPC, and GraphQL APIs Using NodeJS.
 
 I can build a complex aggregation pipeline for mongoDB Databases. 
 
-Contact: zaky.fetoh@gmail.com
+Contact: zaky.fetoh@gmail.com.
 
 Or you can send anonymous message [here](https://forms.gle/8dsNK1m6Hk8chgFi7).
 
