@@ -10,7 +10,7 @@ Contact: zaky.fetoh@gmail.com
 
 Or you can send anonymous message [here](https://forms.gle/8dsNK1m6Hk8chgFi7).
 
-[Here](https://github.com/zaky-fetoh/MyCV/blob/master/ZAky.pdf) is my resume
+[Here](https://github.com/zaky-fetoh/MyCV/blob/master/ZAky.pdf) is my resume.
 
 
 <p align="center">
