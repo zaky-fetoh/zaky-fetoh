@@ -30,8 +30,15 @@ Or you can send anonymous message [here](https://forms.gle/8dsNK1m6Hk8chgFi7).
   <img src="./icons/ExpressJS-Dark.svg" width="48"> 
   <img src="./icons/GraphQL-Dark.svg" width="48"> 
    <img src="./icons/Redis-Dark.svg" width="48"> 
-  <img src="./icons/React-Dark.svg" width="48"> 
-   
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaky-fetoh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+  <img src="./icons/React-Dark.svg" width="48">
 </p>
+
+<p align="center">
+<img src="./icons/Kubernetes.svg" width="48">  
+ <img src="./icons/Flask-Dark.svg" width="48">    
+<img src="./icons/AWS-Light.svg" width="48">
+ <img src="./icons/Jenkins-Light.svg" width="48">
+ <img src="./icons/Ansible.svg" width="48">
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaky-fetoh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+
