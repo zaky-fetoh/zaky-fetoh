@@ -17,6 +17,7 @@ Or you can send anonymous message [here](https://forms.gle/8dsNK1m6Hk8chgFi7).
 <img src="./icons/Python-Dark.svg" width="48"> 
 <img src="./icons/NodeJS-Dark.svg" width="48"> 
 <img src="./icons/GoLang.svg" width="48" >
+ <img src="./icons/Bash-Light.svg" width="48" >
 </p>
 <p align="center">
 <img src="./icons/PyTorch-Dark.svg" width="48">  
