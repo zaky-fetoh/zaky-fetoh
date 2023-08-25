@@ -4,7 +4,7 @@ I love reading Deep learning research papers and studying mathematics.
 
 I can build large Scale CI/CD pipeline Using Jenkins and ArgoCD.
 
-I can Adminstrate and monitor Kubernetes clusters for large scale microservices applications.
+I can administrate and monitor Kubernetes clusters for large scale microservices applications.
 
 I can build complex RESTfull, gRPC, and GraphQL APIs Using NodeJS.
 
